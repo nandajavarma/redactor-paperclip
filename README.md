@@ -11,12 +11,17 @@ In your 'Gemfile', add the following dependencies:
     gem 'redactor-paperclip'
 
 Run:
+    
     $ bundle install
 
+
 And then run:
+    
     rails g redactor_paperclip:install
 
+
 Finally run:
+    
     rake db:migrate
 
 
