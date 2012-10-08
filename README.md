@@ -23,9 +23,12 @@ Finally run:
 ## Usage
 
 Add to your css file (usually 'app/assets/stylesheets/application.css')
+    
     *= require redactor-paperclip
 
+
 And to your javascript file (usually 'app/assets/javascripts/application.js')
+    
     *= require redactor-rails
 
 
@@ -41,4 +44,4 @@ In your javascript file:
 See the [Redactor Documentation](http://redactorjs.com/docs/settings/) for a full list of configuration options.
 
 ## Special Thanks
-    [SammyLin ( redactor-rails )](https://github.com/SammyLin/redactor-rails)
+[SammyLin ( redactor-rails )](https://github.com/SammyLin/redactor-rails)
