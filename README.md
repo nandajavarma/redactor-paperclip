@@ -5,7 +5,7 @@ Image upload management provided by 'paperclip' gem for the Redactor WYSIWYG edi
 
 ## Installation
 
-In your 'Gemfile', add the following dependencies:
+In your `Gemfile`, add the following dependencies:
     
     gem 'paperclip'
     gem 'redactor-paperclip'
@@ -27,14 +27,14 @@ Finally run:
 
 ## Usage
 
-Add to your css file (usually 'app/assets/stylesheets/application.css')
+Add to your css file (usually `app/assets/stylesheets/application.css`)
     
     *= require redactor-paperclip
 
 
-And to your javascript file (usually 'app/assets/javascripts/application.js')
+And to your javascript file (usually `app/assets/javascripts/application.js`)
     
-    *= require redactor-rails
+    *= require redactor-paperclip
 
 
 ## Initialize Redactor    
