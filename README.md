@@ -17,7 +17,7 @@ Run:
 
 And then run:
     
-    rails g redactor_paperclip:install
+    rails g redactor:install
 
 
 Finally run:
@@ -29,12 +29,12 @@ Finally run:
 
 Add to your css file (usually `app/assets/stylesheets/application.css`)
     
-    *= require redactor-paperclip
+    *= require redactor
 
 
 And to your javascript file (usually `app/assets/javascripts/application.js`)
     
-    *= require redactor-paperclip
+    //= require redactor
 
 
 ## Initialize Redactor    
