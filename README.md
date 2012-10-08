@@ -1,6 +1,6 @@
 # Paperclip Gem Integration for Redactor.js
 
-Image upload management provided by 'paperclip' gem for the Redactor WYSIWYG editor
+Image upload management provided by `paperclip` gem for the Redactor WYSIWYG editor
 
 
 ## Installation
