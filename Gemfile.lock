@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    redactor-paperclip (0.0.1)
+    redactor-paperclip (0.0.3)
       paperclip
       rails (~> 3.2.8)
 
