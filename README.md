@@ -1,6 +1,6 @@
 # Paperclip Gem Integration for Redactor.js
 
-Image upload management provided by `paperclip` gem for the Redactor WYSIWYG editor
+Image upload management provided by `paperclip gem` for the Redactor WYSIWYG editor
 
 
 ## Installation
@@ -47,6 +47,12 @@ In your javascript file:
     })        
 
 See the [Redactor Documentation](http://redactorjs.com/docs/settings/) for a full list of configuration options.
+
+
+## License
+Redactor has [3 different licenses](http://redactorjs.com/download/) for commercial use.
+For details please see [License Agreement](http://redactorjs.com/download/).
+
 
 ## Special Thanks
 [SammyLin ( redactor-rails )](https://github.com/SammyLin/redactor-rails)
